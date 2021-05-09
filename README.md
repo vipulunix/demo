@@ -5,4 +5,5 @@ This is simple readme file
 # Some text
 
 Backout
-Hope is there
+<<<<<<< HEAD
+Hope is there>
